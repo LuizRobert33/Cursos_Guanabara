@@ -14,6 +14,11 @@ section{
     margin: auto;
     box-shadow: 3px 3px 10px rgb(0,0,0,0.4);
 }
+
+select{
+    width: 150px;
+}
+
 footer{
     color: white;
     text-align: center;
