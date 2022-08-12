@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "index.C": "cpp"
-    }
+        "index.C": "cpp",
+        "arquivo.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
