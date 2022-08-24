@@ -6,3 +6,15 @@ margin(ajeitar a margem do site)
 font(capaz de atribuir varias caracteristica, dentro da fonte)
 font-weight(Peso da fonte)
 font-style(botar o estilo da fonte)
+se usar a tag "hover" no css essa tag que dizer que tau função
+so será executada quando passar o mause por cima
+exx:
+div:hover{
+
+backgroud:red(o fundo ficara vermelho, quando eu passar o mouse)
+
+}
+
+se usar a tag 
+div > p (indica que eu estou mexendo apenas no paragro da div
+e que esse paragrafo e um "filho" da div)
