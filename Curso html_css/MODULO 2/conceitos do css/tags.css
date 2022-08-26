@@ -18,3 +18,7 @@ backgroud:red(o fundo ficara vermelho, quando eu passar o mouse)
 se usar a tag 
 div > p (indica que eu estou mexendo apenas no paragro da div
 e que esse paragrafo e um "filho" da div)
+
+div:active --> se usa para links
+
+assim que clicar em cima do link ele muda a cor
